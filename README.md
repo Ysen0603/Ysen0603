@@ -49,12 +49,12 @@ I specialize in **Artificial Intelligence (AI), Machine Learning (ML), NLP, Comp
 
 | Category | Tools |
 |----------|-------|
-| **Languages** | Python (95%), JavaScript (90%), HTML/CSS (85%) |
-| **AI/ML** | TensorFlow (90%), Scikit-Learn (85%), Pandas (90%), NumPy (88%) |
-| **Web Dev** | React (90%), FastAPI (85%), React Native (80%) |
-| **Databases** | PostgreSQL (85%), MongoDB (80%) |
-| **Tools** | Git (90%), Linux (85%), Jupyter (88%) |
-| **Others** | Docker, AWS, Next.js, Expo, REST APIs, GraphQL, Redis, Elasticsearch |
+| **Languages** | Python, JavaScript, HTML/CSS |
+| **AI/ML** | TensorFlow, Scikit-Learn, Pandas, NumPy |
+| **Web Dev** | React, FastAPI, React Native |
+| **Databases** | PostgreSQL, MongoDB |
+| **Tools** | Git, Linux, Jupyter |
+| **Others** | Docker, Next.js, Expo, REST APIs |
 
 ---
 
@@ -77,28 +77,21 @@ I specialize in **Artificial Intelligence (AI), Machine Learning (ML), NLP, Comp
 ### 🔹 AI-based CV Analysis Web App  
 - AI-powered CV/job description matcher.  
 - Built with **Next.js, Django, Gemini API**.  
-[🔗 View Details](#)
+[🔗 View Details](https://github.com/Ysen0603/cvgent)
 
 ---
 
 ### 🔹 Security System Using Facial Recognition  
 - Authentication system with **deep learning facial recognition**.  
 - Built with **TensorFlow, Keras, Python, OpenCV**.  
-[🔗 View Details](#)
-
----
-
-### 🔹 Social Connect App  
-- Social networking mobile app with real-time notifications.  
-- Built with **React Native, Expo, FastAPI, WebSocket**.  
-[🔗 View Details](#)
+[🔗 View Details]([#](https://github.com/Ysen0603/Face_recognition))
 
 ---
 
 ### 🔹 Mobile Budget Management App  
 - AI-assisted expense tracking & multilingual support.  
 - Built with **React Native, Django REST, Supabase, Gemini**.  
-[🔗 View Details](#)
+[🔗 View Details]([#](https://github.com/Ysen0603/massroufi_frontend))
 
 ---
 
@@ -118,6 +111,6 @@ I specialize in **Artificial Intelligence (AI), Machine Learning (ML), NLP, Comp
 📞 **Phone:** +212 628744575  
 📍 **Location:** Morocco  
 
-🌐 **Follow Me:** [LinkedIn](#) | [GitHub](#)  
+🌐 **Follow Me:** [LinkedIn](https://www.linkedin.com/in/yassine-ennaya-07aab71b5/)  
 
 ---
