@@ -34,7 +34,7 @@ I specialize in **Artificial Intelligence (AI), Machine Learning (ML), NLP, Comp
 ## 🎓 Education  
 **Information Systems Intelligence Engineer**  
 *SUPMTI | 2019 – 2023*  
-- Specialized in **Data Analysis, NLP, and Computer Vision**.  
+- Specialized in **Machine learning, NLP, and Computer Vision**.  
 
 ---
 
