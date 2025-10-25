@@ -1,4 +1,4 @@
-# 🚀 Yassine Ennaya – Portfolio  
+# Yassine Ennaya – Portfolio  
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -9,43 +9,43 @@
 
 ---
 
-## 👋 About Me  
+## About Me  
 Hi, I’m **Yassine Ennaya**, an **Information Systems Intelligence Engineer (SUPMTI)** and **Next.js Developer**.  
 I specialize in **Artificial Intelligence (AI), Machine Learning (ML), NLP, Computer Vision**, and **Full Stack Web Development**.  
 
-💡 Passionate about crafting **intelligent solutions** with modern web technologies, bridging the gap between **AI** and **user experience**.  
+  Passionate about crafting **intelligent solutions** with modern web technologies, bridging the gap between **AI** and **user experience**.  
 
 ---
 
-## 💼 Experience  
+## Experience  
 
-### 🧠 AI Engineer | AI Trainer  
+### AI Engineer | AI Trainer  
 **Simplon** | *2025 – Present*  
 - Developing AI solutions using ML & DL.  
 - Leading and mentoring AI-focused teams.  
 
-### 💻 Full Stack Developer (Freelance)  
+### Full Stack Developer (Freelance)  
 *2025 – Present*  
 - Built scalable applications using **React, Python, FastAPI**.  
 - Delivered modern, production-ready web solutions.  
 
 ---
 
-## 🎓 Education  
+## Education  
 **Information Systems Intelligence Engineer**  
 *SUPMTI | 2019 – 2023*  
 - Specialized in **Machine learning, NLP, and Computer Vision**.  
 
 ---
 
-## 🔑 Core Expertise  
-✅ **Artificial Intelligence** – ML, DL, NLP, Computer Vision  
-✅ **Full Stack Development** – React, Python, FastAPI, PostgreSQL, MongoDB  
-✅ **Innovation & Research** – R&D, Cutting-edge solutions  
+## Core Expertise  
+**Artificial Intelligence** – ML, DL, NLP, Computer Vision  
+**Full Stack Development** – React, Python, FastAPI, PostgreSQL, MongoDB  
+**Innovation & Research** – R&D, Cutting-edge solutions  
 
 ---
 
-## 🛠️ Skills  
+## Skills  
 
 | Category | Tools |
 |----------|-------|
@@ -58,7 +58,7 @@ I specialize in **Artificial Intelligence (AI), Machine Learning (ML), NLP, Comp
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 ### 🔹 Intelligent System for Project Classification  
 - **NLP-based classification** aligned with UN SDGs.  
@@ -95,22 +95,22 @@ I specialize in **Artificial Intelligence (AI), Machine Learning (ML), NLP, Comp
 
 ---
 
-## 📊 Portfolio Overview  
+## Portfolio Overview  
 
-- 🧩 **6 Projects**  
-- 🤖 **5 AI/ML Projects**  
-- 🌐 **4 Web Apps**  
-- 📱 **2 Mobile Apps**  
-- 🛠️ **15+ Technologies Used**  
+- **6 Projects**  
+- **5 AI/ML Projects**  
+- **4 Web Apps**  
+- **2 Mobile Apps**  
+- **15+ Technologies Used**  
 
 ---
 
-## 📬 Contact  
+## Contact  
 
-📧 **Email:** [yassineennaya2264@gmail.com](mailto:yassineennaya2264@gmail.com)  
-📞 **Phone:** +212 628744575  
-📍 **Location:** Morocco  
+**Email:** [yassineennaya2264@gmail.com](mailto:yassineennaya2264@gmail.com)  
+**Phone:** +212 628744575  
+**Location:** Morocco  
 
-🌐 **Follow Me:** [LinkedIn](https://www.linkedin.com/in/yassine-ennaya-07aab71b5/)  
+**Follow Me:** [LinkedIn](https://www.linkedin.com/in/yassine-ennaya-07aab71b5/)  
 
 ---
