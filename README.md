@@ -25,7 +25,7 @@ I specialize in **Artificial Intelligence (AI), Machine Learning (ML), NLP, Comp
 - Leading and mentoring AI-focused teams.  
 
 ### 💻 Full Stack Developer (Freelance)  
-*2023 – Present*  
+*2025 – Present*  
 - Built scalable applications using **React, Python, FastAPI**.  
 - Delivered modern, production-ready web solutions.  
 
@@ -84,14 +84,14 @@ I specialize in **Artificial Intelligence (AI), Machine Learning (ML), NLP, Comp
 ### 🔹 Security System Using Facial Recognition  
 - Authentication system with **deep learning facial recognition**.  
 - Built with **TensorFlow, Keras, Python, OpenCV**.  
-[🔗 View Details]([#](https://github.com/Ysen0603/Face_recognition))
+[🔗 View Details](https://github.com/Ysen0603/Face_recognition)
 
 ---
 
 ### 🔹 Mobile Budget Management App  
 - AI-assisted expense tracking & multilingual support.  
 - Built with **React Native, Django REST, Supabase, Gemini**.  
-[🔗 View Details]([#](https://github.com/Ysen0603/massroufi_frontend))
+[🔗 View Details](https://github.com/Ysen0603/massroufi_frontend)
 
 ---
 
