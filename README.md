@@ -1,4 +1,4 @@
-# Yassine Ennaya – Portfolio  
+# Yassine Ennaya  
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
