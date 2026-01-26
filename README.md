@@ -97,21 +97,7 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 ## GitHub Analytics & Impact
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ysen0603&theme=radical&column=7&margin-w=15&no-bg=true" alt="Yassine's Trophies" />
-</p>
-
-## 📊 GitHub Analytics & Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ysen0603&show_icons=true&theme=radical&rank_icon=github&count_private=true&border_radius=10" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=radical&border_radius=10&count_private=true" height="195" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen0603&theme=react-dark&border_radius=10&area=true" alt="GitHub Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ysen0603&show_icons=true&theme=algolia&rank_icon=github&count_private=true&include_all_commits=true&border_radius=10" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ysen0603&show_icons=true&theme=algolia&rank_icon=github&count_private=true&border_radius=10" height="195" />
   <img src="https://github-readme-stats.vercel.app/api?username=Ysen0603&show_icons=true&theme=algolia&rank_icon=github&border_radius=10" height="195" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=algolia&border_radius=10" height="195" />
 </p>
