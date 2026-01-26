@@ -78,8 +78,8 @@ AI-assisted expense tracking with multilingual support and smart insights.
 
 ## GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassine-ennaya&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ennaya&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ysen0603&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=radical" height="180em" />
 </p>
 
 ---
