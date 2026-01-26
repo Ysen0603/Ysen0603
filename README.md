@@ -1,75 +1,78 @@
-# Yassine Ennaya | AI Engineer & Full Stack Developer
+# 🚀 Yassine Ennaya | AI Engineer & Full Stack Developer
 ### *Bridging the Gap Between Artificial Intelligence & Scalable User Experiences*
 
 <p align="left">
-<a href="https://linkedin.com/in/yassine-ennaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yassine-ennaya-07aab71b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yassineennaya2264@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Location-Morocco-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-## About Me
-[cite_start]I am an **AI Engineer** with a passion for building end-to-end intelligent systems[cite: 1, 10]. [cite_start]With a solid foundation in **Machine Learning, Deep Learning, and MLOps**, I specialize in transforming complex data into actionable insights[cite: 7]. [cite_start]Currently, I balance my time between **leading AI projects** as a Trainer at Simplon Maghreb and building **scalable web solutions** as a Freelancer[cite: 12, 18].
+## 👨‍💻 About Me
+I am a dedicated **AI Engineer** with a specialization in building end-to-end intelligent systems. With a solid foundation in **Machine Learning, Deep Learning, and MLOps**, I excel at transforming complex data into production-ready solutions. Currently, I serve as an **AI Trainer and Engineer at Simplon Maghreb**, where I lead AI deployments and mentor the next generation of tech talent.
 
-- **Education:** Engineering Degree in Intelligent Information Systems[cite: 34].
-- **Focus:** Scaling AI models using **Kubernetes**, **Docker**, and **Azure**[cite: 8].
-- **Philosophy:** Mentoring others to build employability in AI and Data Science[cite: 17].
+- 🎓 **Education:** Engineering Degree in Intelligent Information Systems (SUPMTI).
+- 💡 **Passion:** Scaling AI models through robust **MLOps** and **Cloud** infrastructure.
+- 🎯 **Mission:** Delivering modern, high-impact web and AI solutions that solve real-world problems.
 
 ---
 
 ## 🛠️ Technical Stack
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning & Artificial Intelligence
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,scipy)](https://skillicons.dev)
-* [cite_start]**Core:** NLP, Computer Vision, LLMs, Scikit-Learn[cite: 9, 49].
-* [cite_start]**Advanced:** LangChain, Hugging Face, Ollama, YOLOv8[cite: 42, 49].
+* **Specializations:** NLP, Computer Vision, LLMs, and Intelligent Classification.
+* **Frameworks/Tools:** LangChain, Hugging Face, Ollama, YOLOv8, NLTK.
 
-### 🌐 Full Stack & Mobile
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,django,fastapi,js)](https://skillicons.dev)
-* [cite_start]**Frameworks:** Next.js, Django REST, FastAPI, React Native[cite: 40, 47, 48].
-* [cite_start]**Databases:** PostgreSQL, Supabase, SQLAlchemy[cite: 47, 51].
-
-### ☁️ MLOps & Infrastructure
+### ⚙️ MLOps & Infrastructure (The Engine)
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,linux,github,postman)](https://skillicons.dev)
-* [cite_start]**Orchestration:** Kubernetes (k8s), Docker, Apache Airflow[cite: 8, 53].
-* [cite_start]**Big Data:** Spark/PySpark, MLflow[cite: 54].
+* **Orchestration:** Kubernetes (k8s), Docker, Docker Compose.
+* **Automation:** Apache Airflow, MLflow.
+* **Data Processing:** Spark / PySpark.
+
+### 🌐 Full Stack & Mobile Development
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,django,fastapi,js)](https://skillicons.dev)
+* **Backend:** FastAPI, Django REST Framework, SQLAlchemy.
+* **Frontend:** Next.js, React, Tailwind CSS.
+* **Mobile:** React Native, Expo.
+* **Databases:** PostgreSQL, Supabase, MongoDB.
 
 ---
 
-## 💼 Professional Journey
+## 💼 Professional Experience
 
 ### 🏫 AI Trainer / AI Engineer | Simplon Maghreb
-[cite_start]*Aug 2025 — Present* [cite: 16]
-* [cite_start]Lead and deliver AI/ML projects from design to production[cite: 13].
-* [cite_start]Implement **MLOps best practices** using Azure and Airflow[cite: 13, 15].
-* [cite_start]Manage project trainers and mentor diverse profiles (engineers/career changers)[cite: 14, 17].
+*Aug 2025 — Present*
+- **MLOps Implementation:** Leading AI/ML projects from design to production using **Azure, Airflow, and Docker**.
+- **Project Leadership:** Managing and guiding project trainers to ensure consistency in AI curriculum and deployment.
+- **Mentorship:** Training engineers and graduates in Data Science and DevOps for Machine Learning.
 
 ### 💻 Full Stack Developer | Freelance
-[cite_start]*Sep 2025 — Present* [cite: 19]
-* [cite_start]Build scalable AI-integrated web applications using **React, Python, and FastAPI**[cite: 20].
-* [cite_start]Deliver modern, production-ready AI/web solutions[cite: 21].
+*Sep 2025 — Present*
+- Architecting scalable AI/Web applications using **React, Python, and FastAPI**.
+- Delivering high-performance, production-ready full-stack solutions for global clients.
 
 ### 🔍 AI & NLP Intern | DGTC - Rabat
-[cite_start]*Feb 2024 — Jul 2024* [cite: 23, 24]
-* [cite_start]Implemented an **Intelligent Project Classification System** for Sustainable Development Goals[cite: 25].
-* [cite_start]Processed data using **LLMs, Word2Vec, and NLTK**[cite: 27].
+*Feb 2024 — Jul 2024*
+- Developed an **Intelligent Project Classification System** aligned with UN Sustainable Development Goals.
+- Utilized **LLMs, Word2Vec, and Scikit-Learn** for advanced text analysis and processing.
 
 ---
 
 ## 🚀 Key Projects
 
 ### 📄 [AI CV Analysis Web App](https://github.com/Ysen0603/cvgent)
-[cite_start]AI-powered CV/job description matcher using **LLMs** and **LangChain**[cite: 40].
-`Next.js` `Django` `Gemini API`
+An AI-powered matcher between CVs and job descriptions.
+- **Tech:** Next.js, Django, Gemini API, LangChain (LLMs).
 
 ### 🎭 [Facial Emotion Detection](https://github.com/Ysen0603/Face_recognition)
-[cite_start]Real-time emotion recognition system using Deep Learning[cite: 41, 42].
-`TensorFlow` `Keras` `YOLOv8` `OpenCV`
+Real-time emotion recognition using Deep Learning and Computer Vision.
+- **Tech:** TensorFlow, Keras, YOLOv8, OpenCV.
 
-### 💰 [Massroufi - Budget App](https://github.com/Ysen0603/massroufi_frontend)
-AI-assisted mobile expense tracker with multilingual support.
-`React Native` `Supabase` `Gemini`
+### 💰 [Massroufi - Mobile Budget Manager](https://github.com/Ysen0603/massroufi_frontend)
+AI-assisted expense tracking with multilingual support and smart insights.
+- **Tech:** React Native, Django REST, Supabase, Gemini.
 
 ---
 
@@ -81,9 +84,9 @@ AI-assisted mobile expense tracker with multilingual support.
 
 ---
 
-## 📞 Get In Touch
-* [cite_start]**LinkedIn:** [yassine-ennaya](https://linkedin.com/in/yassine-ennaya) 
-* [cite_start]**Portfolio:** [yassine-portfolio](https://yassine-portfolio.com) [cite: 3]
-* [cite_start]**Email:** [yassineennaya2264@gmail.com](mailto:yassineennaya2264@gmail.com) [cite: 2]
+## 📫 Let's Connect
+- **LinkedIn:** [yassine-ennaya](https://www.linkedin.com/in/yassine-ennaya-07aab71b5/)
+- **Portfolio:** [yassine-portfolio](https://yassine-portfolio.com)
+- **Email:** [yassineennaya2264@gmail.com](mailto:yassineennaya2264@gmail.com)
 
-<p align="center">✨ <i>Turning complex data into intelligent solutions.</i> ✨</p>
+<p align="center">✨ <i>Combining AI expertise and full-stack development to deliver end-to-end intelligent systems.</i> ✨</p>
