@@ -1,4 +1,4 @@
-# 🚀 Yassine Ennaya | AI Engineer & Full Stack Developer
+# Yassine Ennaya | AI Engineer & Full Stack Developer
 ### *Bridging the Gap Between Artificial Intelligence & Scalable User Experiences*
 
 <p align="left">
@@ -9,12 +9,12 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 [cite_start]I am an **AI Engineer** with a passion for building end-to-end intelligent systems[cite: 1, 10]. [cite_start]With a solid foundation in **Machine Learning, Deep Learning, and MLOps**, I specialize in transforming complex data into actionable insights[cite: 7]. [cite_start]Currently, I balance my time between **leading AI projects** as a Trainer at Simplon Maghreb and building **scalable web solutions** as a Freelancer[cite: 12, 18].
 
-- [cite_start]🎓 **Education:** Engineering Degree in Intelligent Information Systems[cite: 34].
-- [cite_start]💡 **Focus:** Scaling AI models using **Kubernetes**, **Docker**, and **Azure**[cite: 8].
-- [cite_start]✍️ **Philosophy:** Mentoring others to build employability in AI and Data Science[cite: 17].
+- **Education:** Engineering Degree in Intelligent Information Systems[cite: 34].
+- **Focus:** Scaling AI models using **Kubernetes**, **Docker**, and **Azure**[cite: 8].
+- **Philosophy:** Mentoring others to build employability in AI and Data Science[cite: 17].
 
 ---
 
