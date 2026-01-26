@@ -1,88 +1,89 @@
-# 🚀 Yassine Ennaya | IA Engineer & Full Stack Developer
+# 🚀 Yassine Ennaya | AI Engineer & Full Stack Developer
+### *Bridging the Gap Between Artificial Intelligence & Scalable User Experiences*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Expertise-AI%20%26%20MLOps-blue?style=flat-square" alt="Expertise" />
-  <img src="https://img.shields.io/badge/Location-Morocco-red?style=flat-square" alt="Location" />
+<a href="https://linkedin.com/in/yassine-ennaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yassineennaya2264@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Location-Morocco-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-[cite_start]I am an **AI Engineer** with over 1 year of professional experience in **Machine Learning, Deep Learning, and MLOps**[cite: 7]. I specialize in bridging the gap between sophisticated AI research and production-ready applications. [cite_start]Currently, I serve as an **AI Trainer/Engineer**, where I lead end-to-end AI deployments and mentor future engineers in the field of Data Science and DevOps for ML[cite: 12, 13, 17].
+---
+
+## 👨‍💻 About Me
+[cite_start]I am an **AI Engineer** with a passion for building end-to-end intelligent systems[cite: 1, 10]. [cite_start]With a solid foundation in **Machine Learning, Deep Learning, and MLOps**, I specialize in transforming complex data into actionable insights[cite: 7]. [cite_start]Currently, I balance my time between **leading AI projects** as a Trainer at Simplon Maghreb and building **scalable web solutions** as a Freelancer[cite: 12, 18].
+
+- [cite_start]🎓 **Education:** Engineering Degree in Intelligent Information Systems[cite: 34].
+- [cite_start]💡 **Focus:** Scaling AI models using **Kubernetes**, **Docker**, and **Azure**[cite: 8].
+- [cite_start]✍️ **Philosophy:** Mentoring others to build employability in AI and Data Science[cite: 17].
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 
-### 🤖 Artificial Intelligence & Data Science
+### 🤖 Machine Learning & AI
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,scipy)](https://skillicons.dev)
-* [cite_start]**Specialties:** NLP, Computer Vision, LLMs, and Intelligent Classification Systems[cite: 9, 25].
-* [cite_start]**Deep Learning:** CNNs, YOLOv8, Keras, and Hugging Face Transformers[cite: 32, 42, 49].
+* [cite_start]**Core:** NLP, Computer Vision, LLMs, Scikit-Learn[cite: 9, 49].
+* [cite_start]**Advanced:** LangChain, Hugging Face, Ollama, YOLOv8[cite: 42, 49].
 
-### 🌐 Full Stack & Mobile Development
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind,django,fastapi,supabase)](https://skillicons.dev)
-* [cite_start]**Web:** Building scalable architectures with Next.js, Django REST, and FastAPI[cite: 40, 47, 48].
-* [cite_start]**Mobile:** Cross-platform development using React Native and Expo[cite: 48].
+### 🌐 Full Stack & Mobile
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,django,fastapi,js)](https://skillicons.dev)
+* [cite_start]**Frameworks:** Next.js, Django REST, FastAPI, React Native[cite: 40, 47, 48].
+* [cite_start]**Databases:** PostgreSQL, Supabase, SQLAlchemy[cite: 47, 51].
 
-### ⚙️ MLOps, Cloud & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,github,postman)](https://skillicons.dev)
-* [cite_start]**Pipelines:** Designing automated ML workflows using **Apache Airflow** and **MLflow**[cite: 15, 54].
-* [cite_start]**Deployment:** Orchestrating scalable AI solutions with **Docker** and **Kubernetes**[cite: 8, 15].
+### ☁️ MLOps & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,linux,github,postman)](https://skillicons.dev)
+* [cite_start]**Orchestration:** Kubernetes (k8s), Docker, Apache Airflow[cite: 8, 53].
+* [cite_start]**Big Data:** Spark/PySpark, MLflow[cite: 54].
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Journey
 
-#### **AI Trainer / AI Engineer** | Simplon Maghreb
+### 🏫 AI Trainer / AI Engineer | Simplon Maghreb
 [cite_start]*Aug 2025 — Present* [cite: 16]
-- [cite_start]**Lead AI/ML Projects:** Directing projects from design phases through to production deployment using MLOps best practices[cite: 13].
-- [cite_start]**Infrastructure Management:** Designing machine learning pipelines utilizing **Azure, Airflow, and Docker**[cite: 15].
-- [cite_start]**Mentorship:** Guiding engineers and career changers to build technical employability in AI and DevOps[cite: 17].
+* [cite_start]Lead and deliver AI/ML projects from design to production[cite: 13].
+* [cite_start]Implement **MLOps best practices** using Azure and Airflow[cite: 13, 15].
+* [cite_start]Manage project trainers and mentor diverse profiles (engineers/career changers)[cite: 14, 17].
 
-#### **Full Stack Developer** | Freelance
+### 💻 Full Stack Developer | Freelance
 [cite_start]*Sep 2025 — Present* [cite: 19]
-- [cite_start]Developing high-performance AI-integrated web applications using **React, Python, and FastAPI**[cite: 20].
+* [cite_start]Build scalable AI-integrated web applications using **React, Python, and FastAPI**[cite: 20].
+* [cite_start]Deliver modern, production-ready AI/web solutions[cite: 21].
 
-#### **AI & NLP Intern** | General Directorate of Territorial Collectivities
-[cite_start]*Feb 2024 — Jul 2024* [cite: 23]
-- [cite_start]Engineered an intelligent classification system for SDGs using **LLMs, Word2Vec, and Scikit-Learn**[cite: 25, 27].
+### 🔍 AI & NLP Intern | DGTC - Rabat
+[cite_start]*Feb 2024 — Jul 2024* [cite: 23, 24]
+* [cite_start]Implemented an **Intelligent Project Classification System** for Sustainable Development Goals[cite: 25].
+* [cite_start]Processed data using **LLMs, Word2Vec, and NLTK**[cite: 27].
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Key Projects
 
-### 🧠 [CV Analysis & Job Matcher](https://github.com/Ysen0603/cvgent)
-An AI-powered system that matches candidate CVs with job descriptions using LLMs.
-* [cite_start]**Tech:** Next.js, Django, Gemini API, LangChain[cite: 40].
+### 📄 [AI CV Analysis Web App](https://github.com/Ysen0603/cvgent)
+[cite_start]AI-powered CV/job description matcher using **LLMs** and **LangChain**[cite: 40].
+`Next.js` `Django` `Gemini API`
 
 ### 🎭 [Facial Emotion Detection](https://github.com/Ysen0603/Face_recognition)
-Real-time recognition and classification of human emotions for interactive systems.
-* [cite_start]**Tech:** TensorFlow, Keras, YOLOv8, OpenCV[cite: 42].
+[cite_start]Real-time emotion recognition system using Deep Learning[cite: 41, 42].
+`TensorFlow` `Keras` `YOLOv8` `OpenCV`
 
-### 💰 [Massroufi - AI Budget Manager](https://github.com/Ysen0603/massroufi_frontend)
-A mobile application for expense tracking with AI-assisted insights.
-* **Tech:** React Native, Django REST, Supabase, Gemini.
-
----
-
-## 🎓 Education
-- [cite_start]**Engineering Degree (Bac +5) in Intelligent Information Systems** [cite: 34]
-  [cite_start]*SUPMTI-MEKNES (2019 - 2024)* [cite: 35, 36]
-  [cite_start]*Specialization: Data Science and Artificial Intelligence*[cite: 37].
+### 💰 [Massroufi - Budget App](https://github.com/Ysen0603/massroufi_frontend)
+AI-assisted mobile expense tracker with multilingual support.
+`React Native` `Supabase` `Gemini`
 
 ---
 
-## 📊 GitHub Ecosystem
+## 📈 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassine-ennaya&show_icons=true&theme=tokyonight" alt="Yassine's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ennaya&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassine-ennaya&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ennaya&layout=compact&theme=radical" height="180em" />
 </p>
 
 ---
 
-## 📫 Let's Connect
-- [cite_start]**LinkedIn:** [linkedin.com/in/yassine-ennaya](https://www.linkedin.com/in/yassine-ennaya-07aab71b5/) [cite: 5]
-- [cite_start]**Email:** [yassineennaya2264@gmail.com](mailto:yassineennaya2264@gmail.com) [cite: 2]
-- [cite_start]**Portfolio:** [yassine-portfolio](https://yassine-portfolio.com) [cite: 3]
+## 📞 Get In Touch
+* [cite_start]**LinkedIn:** [yassine-ennaya](https://linkedin.com/in/yassine-ennaya) 
+* [cite_start]**Portfolio:** [yassine-portfolio](https://yassine-portfolio.com) [cite: 3]
+* [cite_start]**Email:** [yassineennaya2264@gmail.com](mailto:yassineennaya2264@gmail.com) [cite: 2]
 
-<p align="center">
-  <i>"Passionate about crafting intelligent solutions that bridge the gap between AI and user experience."</i>
-</p>
+<p align="center">✨ <i>Turning complex data into intelligent solutions.</i> ✨</p>
