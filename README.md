@@ -62,6 +62,16 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 
 ## Key Projects
 
+### 🤟 [LSM Darija - Sign Language Recognition](https://github.com/Ysen0603/LSM_Darija_Backend)
+An end-to-end framework for Moroccan Sign Language (LSM) recognition.
+- **Features:** Real-time inference with Mediapipe keypoint extraction and LSTM neural networks.
+- **Tech:** PyTorch, Mediapipe, Python, OpenCV.
+
+### 📈 [Binance BTC Data Pipeline](https://github.com/Ysen0603/Data_Airflow_BTC)
+A high-frequency ETL suite for real-time cryptocurrency analytics using a Medallion Architecture.
+- **Features:** Automated extraction, Spark feature engineering, and PostgreSQL warehousing.
+- **Tech:** Apache Airflow, PySpark 3.5+, Docker, PostgreSQL.
+
 ### [AI CV Analysis Web App](https://github.com/Ysen0603/cvgent)
 An AI-powered matcher between CVs and job descriptions.
 - **Tech:** Next.js, Django, Gemini API, LangChain (LLMs).
