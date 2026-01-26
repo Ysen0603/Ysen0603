@@ -60,29 +60,37 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 
 ---
 
-## Key Projects
+## Technical Project Showcase
 
-### 🤟 [LSM Darija - Sign Language Recognition](https://github.com/Ysen0603/LSM_Darija_Backend)
-An end-to-end framework for Moroccan Sign Language (LSM) recognition.
-- **Features:** Real-time inference with Mediapipe keypoint extraction and LSTM neural networks.
-- **Tech:** PyTorch, Mediapipe, Python, OpenCV.
+### Artificial Intelligence & Deep Learning
 
-### 📈 [Binance BTC Data Pipeline](https://github.com/Ysen0603/Data_Airflow_BTC)
-A high-frequency ETL suite for real-time cryptocurrency analytics using a Medallion Architecture.
-- **Features:** Automated extraction, Spark feature engineering, and PostgreSQL warehousing.
-- **Tech:** Apache Airflow, PySpark 3.5+, Docker, PostgreSQL.
+#### [LSM Darija - Sign Language Recognition](https://github.com/Ysen0603/LSM_Darija_Backend)
+*An end-to-end framework for Moroccan Sign Language (LSM) recognition.*
+* **The Challenge:** Recognizing temporal gestures in Moroccan Darija.
+* **The Solution:** Built a PyTorch-based **LSTM (Long Short-Term Memory)** network. Used **Mediapipe** for high-resolution hand and body landmark extraction.
+* **Key Tech:** `PyTorch` `Mediapipe` `Python` `OpenCV`
 
-### [AI CV Analysis Web App](https://github.com/Ysen0603/cvgent)
-An AI-powered matcher between CVs and job descriptions.
-- **Tech:** Next.js, Django, Gemini API, LangChain (LLMs).
+#### [AI CV Analysis Web App](https://github.com/Ysen0603/cvgent)
+*Intelligent recruitment tool for matching CVs with Job Descriptions.*
+* **The Solution:** Leveraged **LangChain** and **Google Gemini API** to perform semantic analysis and scoring.
+* **Key Tech:** `Next.js` `Django` `Gemini API` `LangChain`
 
-### [Facial Emotion Detection](https://github.com/Ysen0603/Face_recognition)
-Real-time emotion recognition using Deep Learning and Computer Vision.
-- **Tech:** TensorFlow, Keras, YOLOv8, OpenCV.
+#### [Facial Emotion Detection](https://github.com/Ysen0603/Face_recognition)
+*Real-time recognition system for interactive environments.*
+* **The Solution:** Implemented **YOLOv8** and **CNNs** for robust feature extraction and real-time facial classification.
+* **Key Tech:** `TensorFlow` `Keras` `YOLOv8` `OpenCV`
 
-### [Massroufi - Mobile Budget Manager](https://github.com/Ysen0603/massroufi_frontend)
-AI-assisted expense tracking with multilingual support and smart insights.
-- **Tech:** React Native, Django REST, Supabase, Gemini.
+---
+
+### Data Engineering & MLOps
+
+#### [Binance BTC Data Pipeline](https://github.com/Ysen0603/Data_Airflow_BTC)
+*Technical ETL Suite for High-Frequency Cryptocurrency Analytics.*
+
+* **The Architecture:** Implemented a **Medallion Architecture** (Bronze, Silver layers) for data lineage and quality.
+* **The Workflow:** Used **Apache Airflow** (TaskFlow API) for orchestration and **PySpark 3.5+** for advanced feature engineering.
+* **Infrastructure:** Entirely containerized environment with custom Java/Spark integrations.
+* **Key Tech:** `Apache Airflow` `PySpark` `Docker` `PostgreSQL`
 
 ---
 
