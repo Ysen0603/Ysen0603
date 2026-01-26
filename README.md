@@ -1,116 +1,115 @@
-# Yassine Ennaya  
+# Yassine Ennaya | AI Engineer & Full Stack Developer
+### *Bridging the Gap Between Artificial Intelligence & Scalable User Experiences*
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## About Me  
-Hi, I’m **Yassine Ennaya**, an **Information Systems Intelligence Engineer (SUPMTI)** and **Next.js Developer**.  
-I specialize in **Artificial Intelligence (AI), Machine Learning (ML), NLP, Computer Vision**, and **Full Stack Web Development**.  
-
-  Passionate about crafting **intelligent solutions** with modern web technologies, bridging the gap between **AI** and **user experience**.  
+<p align="left">
+<a href="https://www.linkedin.com/in/yassine-ennaya-07aab71b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yassineennaya2264@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Location-Morocco-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
-## Experience  
+## About Me
+I am a dedicated **AI Engineer** with a specialization in building end-to-end intelligent systems. With a solid foundation in **Machine Learning, Deep Learning, and MLOps**, I excel at transforming complex data into production-ready solutions. Currently, I serve as an **AI Trainer and Engineer at Simplon Maghreb**, where I lead AI deployments and mentor the next generation of tech talent.
 
-### AI Engineer | AI Trainer  
-**Simplon** | *2025 – Present*  
-- Developing AI solutions using ML & DL.  
-- Leading and mentoring AI-focused teams.  
-
-### Full Stack Developer (Freelance)  
-*2025 – Present*  
-- Built scalable applications using **React, Python, FastAPI**.  
-- Delivered modern, production-ready web solutions.  
+- **Education:** Engineering Degree in Intelligent Information Systems (SUPMTI).
+- **Passion:** Scaling AI models through robust **MLOps** and **Cloud** infrastructure.
+- **Mission:** Delivering modern, high-impact web and AI solutions that solve real-world problems.
 
 ---
 
-## Education  
-**Information Systems Intelligence Engineer**  
-*SUPMTI | 2019 – 2023*  
-- Specialized in **Machine learning, NLP, and Computer Vision**.  
+## Technical Stack
+
+### Machine Learning & Artificial Intelligence
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,scipy)](https://skillicons.dev)
+* **Specializations:** NLP, Computer Vision, LLMs, and Intelligent Classification.
+* **Frameworks/Tools:** LangChain, Hugging Face, Ollama, YOLOv8, NLTK.
+
+### MLOps & Infrastructure (The Engine)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,linux,github,postman)](https://skillicons.dev)
+* **Orchestration:** Kubernetes (k8s), Docker, Docker Compose.
+* **Automation:** Apache Airflow, MLflow.
+* **Data Processing:** Spark / PySpark.
+
+### Full Stack & Mobile Development
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,django,fastapi,js)](https://skillicons.dev)
+* **Backend:** FastAPI, Django REST Framework, SQLAlchemy.
+* **Frontend:** Next.js, React, Tailwind CSS.
+* **Mobile:** React Native, Expo.
+* **Databases:** PostgreSQL, Supabase, MongoDB.
 
 ---
 
-## Core Expertise  
-**Artificial Intelligence** – ML, DL, NLP, Computer Vision  
-**Full Stack Development** – React, Python, FastAPI, PostgreSQL, MongoDB  
-**Innovation & Research** – R&D, Cutting-edge solutions  
+## Professional Experience
+
+### AI Trainer / AI Engineer | Simplon Maghreb
+*Aug 2025 — Present*
+- **MLOps Implementation:** Leading AI/ML projects from design to production using **Azure, Airflow, and Docker**.
+- **Project Leadership:** Managing and guiding project trainers to ensure consistency in AI curriculum and deployment.
+- **Mentorship:** Training engineers and graduates in Data Science and DevOps for Machine Learning.
+
+### Full Stack Developer | Freelance
+*Sep 2025 — Present*
+- Architecting scalable AI/Web applications using **React, Python, and FastAPI**.
+- Delivering high-performance, production-ready full-stack solutions for global clients.
+
+### AI & NLP Intern | DGTC - Rabat
+*Feb 2024 — Jul 2024*
+- Developed an **Intelligent Project Classification System** aligned with UN Sustainable Development Goals.
+- Utilized **LLMs, Word2Vec, and Scikit-Learn** for advanced text analysis and processing.
 
 ---
 
-## Skills  
+## Technical Project Showcase
 
-| Category | Tools |
-|----------|-------|
-| **Languages** | Python, JavaScript, HTML/CSS |
-| **AI/ML** | TensorFlow, Scikit-Learn, Pandas, NumPy |
-| **Web Dev** | React, FastAPI, React Native |
-| **Databases** | PostgreSQL, MongoDB |
-| **Tools** | Git, Linux, Jupyter |
-| **Others** | Docker, Next.js, Expo, REST APIs |
+### Artificial Intelligence & Deep Learning
 
----
+#### [LSM Darija - Sign Language Recognition](https://github.com/Ysen0603/LSM_Darija_Backend)
+*An end-to-end framework for Moroccan Sign Language (LSM) recognition.*
+* **The Challenge:** Recognizing temporal gestures in Moroccan Darija.
+* **The Solution:** Built a PyTorch-based **LSTM (Long Short-Term Memory)** network. Used **Mediapipe** for high-resolution hand and body landmark extraction.
+* **Key Tech:** `PyTorch` `Mediapipe` `Python` `OpenCV`
 
-## Featured Projects  
+#### [AI CV Analysis Web App](https://github.com/Ysen0603/cvgent)
+*Intelligent recruitment tool for matching CVs with Job Descriptions.*
+* **The Solution:** Leveraged **LangChain** and **Google Gemini API** to perform semantic analysis and scoring.
+* **Key Tech:** `Next.js` `Django` `Gemini API` `LangChain`
 
-### 🔹 Intelligent System for Project Classification  
-- **NLP-based classification** aligned with UN SDGs.  
-- Built with **Python, TensorFlow, Keras, Scikit-Learn, React, FastAPI**.  
-[🔗 View Details](#)
-
----
-
-### 🔹 Facial Emotion Detection  
-- Real-time facial emotion recognition.  
-- Built with **TensorFlow, Keras, YOLOv8, OpenCV**.  
-[🔗 View Details](#)
+#### [Facial Emotion Detection](https://github.com/Ysen0603/Face_recognition)
+*Real-time recognition system for interactive environments.*
+* **The Solution:** Implemented **YOLOv8** and **CNNs** for robust feature extraction and real-time facial classification.
+* **Key Tech:** `TensorFlow` `Keras` `YOLOv8` `OpenCV`
 
 ---
 
-### 🔹 AI-based CV Analysis Web App  
-- AI-powered CV/job description matcher.  
-- Built with **Next.js, Django, Gemini API**.  
-[🔗 View Details](https://github.com/Ysen0603/cvgent)
+### Data Engineering & MLOps
+
+#### [Binance BTC Data Pipeline](https://github.com/Ysen0603/Data_Airflow_BTC)
+*Technical ETL Suite for High-Frequency Cryptocurrency Analytics.*
+
+* **The Architecture:** Implemented a **Medallion Architecture** (Bronze, Silver layers) for data lineage and quality.
+* **The Workflow:** Used **Apache Airflow** (TaskFlow API) for orchestration and **PySpark 3.5+** for advanced feature engineering.
+* **Infrastructure:** Entirely containerized environment with custom Java/Spark integrations.
+* **Key Tech:** `Apache Airflow` `PySpark` `Docker` `PostgreSQL`
 
 ---
 
-### 🔹 Security System Using Facial Recognition  
-- Authentication system with **deep learning facial recognition**.  
-- Built with **TensorFlow, Keras, Python, OpenCV**.  
-[🔗 View Details](https://github.com/Ysen0603/Face_recognition)
+## GitHub Analytics & Impact
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ysen0603&show_icons=true&theme=algolia&rank_icon=github&border_radius=10" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=algolia&border_radius=10" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen0603&theme=react-dark&border_radius=10" alt="GitHub Activity Graph" width="100%" />
+</p>
 
 ---
 
-### 🔹 Mobile Budget Management App  
-- AI-assisted expense tracking & multilingual support.  
-- Built with **React Native, Django REST, Supabase, Gemini**.  
-[🔗 View Details](https://github.com/Ysen0603/massroufi_frontend)
+## Let's Connect
+- **LinkedIn:** [yassine-ennaya](https://www.linkedin.com/in/yassine-ennaya-07aab71b5/)
+- **Portfolio:** [yassine-portfolio](https://yassine-portfolio.com)
+- **Email:** [yassineennaya2264@gmail.com](mailto:yassineennaya2264@gmail.com)
 
----
-
-## Portfolio Overview  
-
-- **6 Projects**  
-- **5 AI/ML Projects**  
-- **4 Web Apps**  
-- **2 Mobile Apps**  
-- **15+ Technologies Used**  
-
----
-
-## Contact  
-
-**Email:** [yassineennaya2264@gmail.com](mailto:yassineennaya2264@gmail.com)  
-**Phone:** +212 628744575  
-**Location:** Morocco  
-
-**Follow Me:** [LinkedIn](https://www.linkedin.com/in/yassine-ennaya-07aab71b5/)  
-
----
+<p align="center"><i>Combining AI expertise and full-stack development to deliver end-to-end intelligent systems.</i></p>
