@@ -89,4 +89,4 @@ AI-assisted expense tracking with multilingual support and smart insights.
 - **Portfolio:** [yassine-portfolio](https://yassine-portfolio.com)
 - **Email:** [yassineennaya2264@gmail.com](mailto:yassineennaya2264@gmail.com)
 
-<p align="center">✨ <i>Combining AI expertise and full-stack development to deliver end-to-end intelligent systems.</i> ✨</p>
+<p align="center"><i>Combining AI expertise and full-stack development to deliver end-to-end intelligent systems.</i></p>
