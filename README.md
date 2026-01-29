@@ -96,9 +96,6 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 
 ## GitHub Analytics & Impact
 
----
-
-## GitHub Analytics & Impact
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
