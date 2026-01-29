@@ -109,7 +109,7 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 
 ## Let's Connect
 - **LinkedIn:** [yassine-ennaya](https://www.linkedin.com/in/yassine-ennaya-07aab71b5/)
-- **Portfolio:** [yassine-portfolio](https://yassine-portfolio.com)
+- **Portfolio:** [yassine-portfolio]([https://yassine-portfolio.com](https://ysen-ennaya.vercel.app/))
 - **Email:** [yassineennaya2264@gmail.com](mailto:yassineennaya2264@gmail.com)
 
 <p align="center"><i>Combining AI expertise and full-stack development to deliver end-to-end intelligent systems.</i></p>
