@@ -105,6 +105,19 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen0603&theme=react-dark&border_radius=10" alt="GitHub Activity Graph" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/Ysen0603?template=classic&config.timezone=Africa%2FCasablanca&base=header%2C%20repositories%2C%20metadata&base.indepth=true&repositories=100&repositories.batch=100&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage&languages.indepth=true&languages.colors=github&languages.ignored=html%2C%20css&commits.authoring=Ysen0603%2C%20yassineennaya2264%40gmail.com&theme=tokyonight&config.border_radius=10" width="100%" alt="GitHub Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ysen0603&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&border_radius=10" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=tokyonight&border_radius=10" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen0603&theme=tokyo-night&border_radius=10" alt="GitHub Activity Graph" width="100%" />
+</p>
+
 ---
 
 ## Let's Connect
