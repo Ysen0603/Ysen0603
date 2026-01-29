@@ -96,17 +96,25 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 
 ## GitHub Analytics & Impact
 
+---
+
+## GitHub Analytics & Impact
+
 <p align="center">
-  <img src="https://metrics.lecoq.io/Ysen0603?template=classic&config.timezone=Africa%2FCasablanca&base=header%2C%20repositories%2C%20metadata&base.indepth=true&repositories=100&repositories.batch=100&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage&languages.indepth=true&languages.colors=github&languages.ignored=html%2C%20css&commits.authoring=Ysen0603%2C%20yassineennaya2264%40gmail.com&theme=tokyonight&config.border_radius=10" width="100%" alt="GitHub Metrics" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ysen0603&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ysen0603&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&border_radius=10" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=tokyonight&border_radius=10" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ysen0603&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen0603&theme=tokyo-night&border_radius=10" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen0603&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
