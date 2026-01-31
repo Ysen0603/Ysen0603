@@ -102,7 +102,7 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 </p>
 
 <p align="center">
-  <img src="https://readme-portfolio.vercel.app/graph?username=Ysen0603&theme=react-dark&border_radius=10" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen0603&theme=react-dark" width="100%" />
 </p>
 
 ---
