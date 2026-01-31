@@ -97,8 +97,8 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 ## GitHub Analytics & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ysen0603&show_icons=true&theme=algolia&rank_icon=github&border_radius=10" height="195" alt="Yassine's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=algolia&border_radius=10" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ysen0603&show_icons=true&theme=algolia&rank_icon=github&border_radius=10&v=1" height="195" alt="Yassine's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=algolia&border_radius=10&v=1" height="195" alt="Top Languages" />
 </p>
 
 <p align="center">
