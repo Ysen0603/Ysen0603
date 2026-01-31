@@ -96,14 +96,33 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 
 ## GitHub Analytics & Impact
 
+<!-- GitHub Analytics Grid -->
 <p align="center">
-  <img src="https://readme-portfolio.vercel.app/api?username=Ysen0603&show_icons=true&theme=algolia&hide_border=true" height="195" />
-  <img src="https://readme-portfolio.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=algolia&hide_border=true" height="195" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://readme-portfolio.vercel.app/api?username=Ysen0603&show_icons=true&theme=react&hide_border=true" alt="Core Stats" width="320"/>
+    </td>
+    <td align="center">
+      <img src="https://readme-portfolio.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="320"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen0603&theme=react-dark" alt="Activity Graph" width="640"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.vercel.app/?user=Ysen0603&theme=react&hide_border=true" alt="Streak Stats" width="320"/>
+      <br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ysen0603&theme=react" alt="Profile Details" width="320"/>
+    </td>
+  </tr>
+</table>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen0603&theme=react-dark" width="100%" />
-</p>
+
 
 ---
 
