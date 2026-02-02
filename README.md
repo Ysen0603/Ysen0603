@@ -102,7 +102,8 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 <table>
   <tr>
     <td align="center">
-      <img src="https://readme-portfolio.vercel.app/api?username=Ysen0603&show_icons=true&theme=react&hide_border=true" alt="Core Stats" width="320"/>
+      <img src="https://readme-portfolio.vercel.app/api?username=Ysen0603&show_icons=true&include_all_commits=true&theme=react&hide_border=true"
+    alt="Core Stats"/>
     </td>
     <td align="center">
       <img src="https://readme-portfolio.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="320"/>
