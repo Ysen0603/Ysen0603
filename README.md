@@ -75,7 +75,7 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 * **The Solution:** Leveraged **LangChain** and **Google Gemini API** to perform semantic analysis and scoring.
 * **Key Tech:** `Next.js` `Django` `Gemini API` `LangChain`
 
-#### [Facial Emotion Detection](https://github.com/Ysen0603/Face_recognition)
+#### [Facial Emotion Detection](https://github.com/Ysen0603/YOLOV8_Emotions)
 *Real-time recognition system for interactive environments.*
 * **The Solution:** Implemented **YOLOv8** and **CNNs** for robust feature extraction and real-time facial classification.
 * **Key Tech:** `TensorFlow` `Keras` `YOLOv8` `OpenCV`
