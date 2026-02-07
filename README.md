@@ -1,42 +1,83 @@
-# Yassine Ennaya | AI Engineer & Full Stack Developer
-### *Bridging the Gap Between Artificial Intelligence & Scalable User Experiences*
+<div align="center">
 
-<p align="left">
-<a href="https://www.linkedin.com/in/yassine-ennaya-07aab71b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yassineennaya2264@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Location-Morocco-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=00D2FF&center=true&vCenter=true&width=750&lines=BOOTING_NEURAL_SYSTEM...;YASSINE_ENNAYA_%7C_AI_ENGINEER;FULL_STACK_%7C_SYSTEM_ARCHITECT;DESIGNING_INTELLIGENCE_AT_SCALE;STATUS%3A_ONLINE" /><br/>
+
+<p align="center">
+<b>AI Engineer · Full Stack Developer · MLOps Enthusiast</b><br/>
+<i>Engineering intelligence. Scaling impact. Training the next wave.</i>
 </p>
 
+<br/>
+
+<div align="center">
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/yassine-ennaya-07aab71b5/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:yassineennaya2264@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://ysen-ennaya.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  </p>
+
+</div>
+---
+</div>
+
+
+## SYSTEM PROFILE
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Yassine Ennaya"
+        self.location = "Morocco 🇲🇦"
+        self.education = "Ing. Intelligent Information Systems (SUPMTI)"
+        self.role = ["AI Engineer", "Full Stack Developer", "AI Trainer"]
+        self.specialty = "End-to-End AI Systems at Scale"
+
+    def mission(self):
+        return "Turn data into intelligence and deploy it to production"
+```
+
 ---
 
-## About Me
-I am a dedicated **AI Engineer** with a specialization in building end-to-end intelligent systems. With a solid foundation in **Machine Learning, Deep Learning, and MLOps**, I excel at transforming complex data into production-ready solutions. Currently, I serve as an **AI Trainer and Engineer at Simplon Maghreb**, where I lead AI deployments and mentor the next generation of tech talent.
+## TECH STACK MATRIX
 
-- **Education:** Engineering Degree in Intelligent Information Systems (SUPMTI).
-- **Passion:** Scaling AI models through robust **MLOps** and **Cloud** infrastructure.
-- **Mission:** Delivering modern, high-impact web and AI solutions that solve real-world problems.
+<div align="center">
 
----
+<table>
+<tr>
+<td width="33%" align="center">
 
-## Technical Stack
+### AI / ML CORE
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<br/><br/>
+<code>LLMs</code> <code>NLP</code> <code>Computer Vision</code><br/>
+<code>LangChain</code> <code>YOLOv8</code> <code>HuggingFace</code>
 
-### Machine Learning & Artificial Intelligence
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,scipy)](https://skillicons.dev)
-* **Specializations:** NLP, Computer Vision, LLMs, and Intelligent Classification.
-* **Frameworks/Tools:** LangChain, Hugging Face, Ollama, YOLOv8, NLTK.
+</td>
 
-### MLOps & Infrastructure (The Engine)
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,linux,github,postman)](https://skillicons.dev)
-* **Orchestration:** Kubernetes (k8s), Docker, Docker Compose.
-* **Automation:** Apache Airflow, MLflow.
-* **Data Processing:** Spark / PySpark.
+<td width="33%" align="center">
 
-### Full Stack & Mobile Development
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,django,fastapi,js)](https://skillicons.dev)
-* **Backend:** FastAPI, Django REST Framework, SQLAlchemy.
-* **Frontend:** Next.js, React, Tailwind CSS.
-* **Mobile:** React Native, Expo.
-* **Databases:** PostgreSQL, Supabase, MongoDB.
+### MLOPS / CLOUD
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,linux,github&theme=dark" />
+<br/><br/>
+<code>Airflow</code> <code>MLflow</code> <code>Spark</code><br/>
+<code>CI/CD</code> <code>Monitoring</code>
+
+</td>
+
+<td width="33%" align="center">
+
+### FULL STACK
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,django,postgres&theme=dark" />
+<br/><br/>
+<code>REST APIs</code> <code>Supabase</code><br/>
+<code>MongoDB</code> <code>React Native</code>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -100,15 +141,7 @@ I am a dedicated **AI Engineer** with a specialization in building end-to-end in
 <p align="center">
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://readme-portfolio.vercel.app/api?username=Ysen0603&show_icons=true&include_all_commits=true&theme=react&hide_border=true"
-    alt="Core Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://readme-portfolio.vercel.app/api/top-langs/?username=Ysen0603&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="320"/>
-    </td>
-  </tr>
+ 
   <tr>
     <td align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ysen0603&theme=react-dark" alt="Activity Graph" width="640"/>
