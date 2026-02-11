@@ -94,7 +94,7 @@ class AIEngineer:
 - Architecting scalable AI/Web applications using **React, Python, and FastAPI**.
 - Delivering high-performance, production-ready full-stack solutions for global clients.
 
-### AI & NLP Intern | DGTC - Rabat
+### AI & NLP | DGTC - Rabat
 *Feb 2024 — Jul 2024*
 - Developed an **Intelligent Project Classification System** aligned with UN Sustainable Development Goals.
 - Utilized **LLMs, Word2Vec, and Scikit-Learn** for advanced text analysis and processing.
